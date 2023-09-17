@@ -1,5 +1,4 @@
 ### Hello World! Sou Rafael 👋
-<q>Think for yourself</q>
 
 <!--
 **rafaqfv/rafaqfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
