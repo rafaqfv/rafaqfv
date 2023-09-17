@@ -2,9 +2,7 @@
 
 <!--
 **rafaqfv/rafaqfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 Estudando HTML, CSS, JavaScript, Java
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: ...
 -->
+#
+<p>Iniciei a minha jornada em março de 2023 no curso de programação do Instituto Federal<br>e estou aprendendo todas essas tecnologias abaixo :</p>
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
