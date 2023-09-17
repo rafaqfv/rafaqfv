@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-<p>Iniciei a minha jornada em março de 2023 no curso de programação do Instituto Federal<br>e estou aprendendo todas essas tecnologias abaixo :</p>
+<p>Iniciei a minha jornada em março de 2023 no curso de programação do <strong>Instituto Federal</strong><br>e estou <strong>aprendendo</strong> todas essas tecnologias abaixo :</p>
 <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
