@@ -14,4 +14,4 @@ Iniciei a minha jornada em março de 2023 no curso de programação do **[Instit
 
 ##
 
-<a href="https://instagram.com/rafaqfv" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/rafaqfv" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
