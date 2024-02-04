@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Iniciei a minha jornada em março de 2023 no curso de programação do **[Instituto Federal](https://www.ifnmg.edu.br/montesclaros)** e estou aprendendo todas essas tecnologias abaixo:
+Iniciei a minha jornada em março de 2023 no curso de programação do **[Instituto Federal](https://www.ifnmg.edu.br/montesclaros)** e estou estudando todas essas tecnologias abaixo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
