@@ -1,4 +1,4 @@
-## Hello World! Sou Rafael 👋
+## Olá 👋
 
 Iniciei a minha jornada em março de 2023 no curso de programação do **[Instituto Federal](https://www.ifnmg.edu.br/montesclaros)** e estou aprendendo todas essas tecnologias abaixo:
 
