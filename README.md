@@ -1,6 +1,8 @@
-## Olá 👋
+<div align="center">
+<h1>Olá 👋</h1>
 
 Cursando programação em **[Instituto Federal](https://www.ifnmg.edu.br/montesclaros)**
+</div>
 
 <div align="center">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
