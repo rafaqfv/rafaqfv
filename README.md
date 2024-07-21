@@ -2,7 +2,7 @@
 
 Cursando programação em **[Instituto Federal](https://www.ifnmg.edu.br/montesclaros)**
 
-<div style="paddin-bottom: 1rem;">
+<div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,11 +10,8 @@ Cursando programação em **[Instituto Federal](https://www.ifnmg.edu.br/montesc
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
 </div>
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1em;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
-  
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
-</div>
+<img style="display: block" width="350" src="https://github-readme-stats.vercel.app/api?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
+<img style="display: block" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 
 ##
 
