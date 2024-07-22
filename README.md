@@ -1,4 +1,6 @@
-![gh-header](https://github.com/user-attachments/assets/6f9ac41f-4566-42fb-b2e7-6c74cb3c7b4f)
+![gh-header](https://s5.ezgif.com/tmp/ezgif-5-b783f56a6b.webp)
+
+<h1 align="center">Hey 👋🏻</h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
