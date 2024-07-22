@@ -1,23 +1,15 @@
-<div align="center">
-<h1>Olá 👋</h1>
-
-Cursando programação em **[Instituto Federal](https://www.ifnmg.edu.br/montesclaros)**
-</div>
-
-<div align="center">
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
-</div>
+![gh-header](https://github.com/user-attachments/assets/6f9ac41f-4566-42fb-b2e7-6c74cb3c7b4f)
 
 <div align="center" style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaqfv&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-##
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,js,html,css)](https://skillicons.dev)
+
+</div>
 
 <div align="center">
   <a href="https://instagram.com/rafaqfv" target="_blank">
