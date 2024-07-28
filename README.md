@@ -1,4 +1,4 @@
-![gh-header](https://s5.ezgif.com/tmp/ezgif-5-b783f56a6b.webp)
+![gheaderrszd-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/5d9af1b2-1b55-4b75-a8ae-ddf16913d443)
 
 <h1 align="center">Hey 👋🏻</h1>
 
